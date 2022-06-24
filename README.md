@@ -24,3 +24,9 @@
     [linkedin](https://www.linkedin.com/in/cristian-iglesias-a7031181/) \
     Programador, Infraestructura, Analisis de datos \
     Curso CLoud DevOps
+
+  - Ignacio Torres \
+    nacho.torres.550@gmail.com \
+    [linkedin](https://www.linkedin.com/in/ignacio-torres-ar/) \
+    Seguridad informatica \
+    Carrera experto en Devops
